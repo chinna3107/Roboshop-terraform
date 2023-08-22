@@ -1,10 +1,3 @@
-#terraform {
-#  backend "s3" {}
-#}
-#variable "test"  {}
-#output "test" {
-#   value = var.test
-#}
 
 module "component" {
   source = "git::https://github.com/chinna3107/tf-module-basic-test.git"

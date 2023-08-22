@@ -41,3 +41,6 @@ Component = {
     }
   }
 
+Security_group = [ "sg-0718583b9b8a75cc2" ]
+zone_id        = "Z02130323PCBS9CDUOI7M"
+
